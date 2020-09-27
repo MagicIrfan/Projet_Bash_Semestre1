@@ -1,0 +1,55 @@
+*
+	{
+		font-family : Tahoma
+	}
+	body
+	{
+		background-color:grey;	
+	}
+	#page
+	{
+		width:800px;
+		margin:auto;
+	}
+	h1
+	{
+		font-size:300%;
+		color:orange;
+		margin-bottom: 0px;
+	}
+	h2
+	{
+		font-size:120%;
+		color:white;
+		margin-top: 0px;
+	}
+	.article
+	{
+		color:black;
+		background-color: orange;
+		text-justify:auto;
+		margin-bottom :1em;
+		padding:1em;
+		border-radius: 10px 10px 10px 10px
+	}
+	.article p{
+		font-weight: bold;
+		color: white;
+	}
+	.article a{
+		font-weight: bold;
+		color: white;
+		text-underline: white;
+	}
+	footer
+	{
+		color:white;
+		font-size:0.8em;
+		text-align:center;
+		background-color: rgba(0, 0, 0, 0.5);
+		padding:20px;
+		margin-top:50px;
+		position:relative;
+		top:100px;
+	}
+
